@@ -29,11 +29,13 @@
         <li>c8: Hair and makeup</li>
         <li>c9: Talking to passenger</li>
       </ul>
-    <li><strong>Image Preprocessing:**</li>
+      
+    <li><strong>Image Preprocessing:</li>
       <ul>
         <li>Original RGB images (480x640) resized to 120x160 for computational efficiency.</li>
       </ul>
-    <li><strong>CSV File:**</li>
+      
+    <li><strong>CSV File:</li>
       <ul>
         <li>Provides image filename, subject ID, and corresponding class ID.</li>
       </ul>
